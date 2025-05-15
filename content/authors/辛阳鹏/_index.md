@@ -71,6 +71,7 @@ email: ''
 user_groups:
   - Researchers
   - Old girls & boys
+  - Visitors
 ---
 
 辛阳鹏专注于智能算法和数据驱动方法，以促进以人为本的建筑设计。他目前的工作涉及虚拟现实、深度学习、ABM、图论、医疗环境设计、老龄化和人类福祉。他曾在《Automation in Construction》、《Journal of Building Engineering》、《Developments in Built Environment》等国际顶级期刊上发表多篇论文。
